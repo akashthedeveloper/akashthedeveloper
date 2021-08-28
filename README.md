@@ -20,6 +20,13 @@ I am a Front-End Developer,aspiring Software Developer,Content Creator/Podcast H
 - 💬 Ask me about Internships, Opportunities ,Front-End and Guidance
 - 📫 How to reach me: [<img align="center" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akashjha123/)
 
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
  
