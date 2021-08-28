@@ -20,6 +20,9 @@ I am a Front-End Developer,Aspiring Software Developer,Content Creator/Podcast H
 - 💬 Ask me about Internships, Opportunities ,Front-End and Guidance
 - 📫 How to reach me: [<img align="center" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akashjha123/)
 
+### Connect with me here
+<p><a href="https://twitter.com/akash_the_dev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/akashjha123/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://akashthedeveloper.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a></p>
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -27,7 +30,7 @@ I am a Front-End Developer,Aspiring Software Developer,Content Creator/Podcast H
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 
-## Framework
+### Framework
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
