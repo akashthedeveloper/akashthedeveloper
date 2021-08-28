@@ -5,12 +5,12 @@
 I am a Front-End Developer,Aspiring Software Developer,Content Creator/Podcast Host and Startup Enthusiast<br>
 - 🔭 I’m currently a 2nd Year Undergrad Student<br>
 - 🌱 I’m currently learning  <br>
-          👉 React.js in depth, Python & working on Front-End Projects <br>
-          👉 DSA and preparing for SDE Role<br>
+          &nbsp👉 React.js in depth, Python & working on Front-End Projects <br>
+          &nbsp👉 DSA and preparing for SDE Role<br>
 -  👩‍💻 I'm interested in learning the path of <br>
-          👉 Data Analyst, UX/UI, Full-Stack Development, Machine Learning, AI skills <br>
-          👉 Doing Open-Source Contribution <br>
-          👉 How to build Chatbots from scratch<br>
+          &nbsp👉 Data Analyst, UX/UI, Full-Stack Development, Machine Learning, AI skills <br>
+          &nbsp👉 Doing Open-Source Contribution <br>
+          &nbsp👉 How to build Chatbots from scratch<br>
 - 👯 I’m looking to collaborate on Open-Source Projects, Hackathons and working on Side-Projects<br>
 - 🤔 I’m looking for help with Open-Source and Problem Solving<br>
 - 💬 Ask me about Internships, Opportunities ,Front-End and Guidance<br>
