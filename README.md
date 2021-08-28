@@ -1,15 +1,7 @@
 ### Hi there 👋 I'm Akash Jha
-
-<!--
-**akashthedeveloper/akashthedeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akashthedevelopero&label=Views" alt="Views">
-  <img src="https://badges.pufler.dev/years/akashthedeveloper" alt="Years"></a>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=akashthedevelopero&label=Views" alt="Views"> 
 </p>
-
 I am a Front-End Developer,Aspiring Software Developer,Content Creator/Podcast Host and Startup Enthusiast
 - 🔭 I’m currently a 2nd Year Undergrad Student
 - 🌱 I’m currently learning  <br>
