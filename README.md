@@ -18,7 +18,7 @@ I am a Front-End Developer,Aspiring Software Developer,Content Creator/Podcast H
 - 👯 I’m looking to collaborate on Open-Source Projects, Hackathons and working on Side-Projects 
 - 🤔 I’m looking for help with Open-Source and Problem Solving
 - 💬 Ask me about Internships, Opportunities ,Front-End and Guidance
-- 📫 How to reach me: [<img align="center" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akashjha123/) [<img align="center" alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>]("mailto:0123akashjha@gmail.com")
+- 📫 How to reach me: [<img align="center" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akashjha123/) [<img align="center" alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>]("0123akashjha@gmail.com")
 
 ### Connect with me here:
 <p><a href="https://twitter.com/akash_the_dev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/akashjha123/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href=https://www.instagram.com/akashthedeveloper/""><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://akashthedeveloper.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a></p>
@@ -39,7 +39,3 @@ I am a Front-End Developer,Aspiring Software Developer,Content Creator/Podcast H
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 ## Top Languages Used<br><br><img height="95px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashthedeveloper&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-
- 
-
-
