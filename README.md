@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-I am a Front-End Developer,aspiring Software Developer,Content Creator/Podcast Host and Startup Enthusiast
+I am a Front-End Developer,Aspiring Software Developer,Content Creator/Podcast Host and Startup Enthusiast
 - 🔭 I’m currently a 2nd Year Undergrad Student
 - 🌱 I’m currently learning  <br>
         👉 React.js in depth, Python & working on Front-End Projects <br>
