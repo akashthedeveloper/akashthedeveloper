@@ -12,7 +12,7 @@ I am a Front-End Developer,aspiring Software Developer,Content Creator/Podcast H
         👉 React.js in depth, Python & working on Front-End Projects <br>
         👉 DSA and preparing for SDE Role
 -  👩‍💻 I'm interested in learning the path of <br>
-        👉 Data Analyst,UX/UI,Full-Stack Development,Machine Learning, AI skills <br>
+        👉 Data Analyst, UX/UI, Full-Stack Development, Machine Learning, AI skills <br>
         👉 Doing Open-Source Contribution <br>
         👉 How to build Chatbots from scratch
 - 👯 I’m looking to collaborate on Open-Source Projects, Hackathons and working on Side-Projects 
