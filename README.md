@@ -31,10 +31,6 @@ I am a Front-End Developer,aspiring Software Developer,Content Creator/Podcast H
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
- 
-<!-- BLOG-POST-LIST:END -->
 
  
 
