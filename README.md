@@ -14,7 +14,7 @@ I am a Front-End Developer,Aspiring Software Developer,Content Creator/Podcast H
 - 👯 I’m looking to collaborate on Open-Source Projects, Hackathons and working on Side-Projects<br>
 - 🤔 I’m looking for help with Open-Source and Problem Solving<br>
 - 💬 Ask me about Internships, Opportunities ,Front-End and Guidance<br>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/akashjha123/"><img  align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+- 📫 How to reach out: <a href="https://www.linkedin.com/in/akashjha123/"><img  align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="https://0123akashjha@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
 ### Connect with me here:
