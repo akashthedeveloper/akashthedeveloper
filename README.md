@@ -15,7 +15,7 @@ I am a Front-End Developer,Aspiring Software Developer,Content Creator/Podcast H
 - 🤔 I’m looking for help with Open-Source and Problem Solving<br>
 - 💬 Ask me about Internships, Opportunities ,Front-End and Guidance<br>
 - 📫 How to reach out: <a href="https://www.linkedin.com/in/akashjha123/"><img  align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-<a href="https://0123akashjha@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="mailto:0123akashjha@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
 <p>- Connect with me on <a href="https://www.youtube.com/c/AkashtheDeveloper">YouTube</a> if you want to find good opportunities related to internships, fellowships program,open source ,mentorships ,research internships, hiring challenges, hackathons, coding competitions.</p>
 👉 So do consider ✔ <b>Subscribing</b> to channel, <b>Pressing the 🔔 icon</b>, <b>Sharing</b> this with others and <b>Hitting</b> the 👍
