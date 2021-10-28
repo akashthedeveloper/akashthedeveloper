@@ -18,7 +18,7 @@ I am a Front-End Developer,Aspiring Software Developer,Content Creator/Podcast H
 <a href="https://0123akashjha@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
 <p> Connect with me on <a href="https://www.youtube.com/c/AkashtheDeveloper">YouTube</a> if you want to find good opportunities related to internships, fellowships program,open source ,mentorships ,research internships, hiring challenges, hackathons, coding competitions.</p>
-- Do consider ✔ ** Subscribing ** to channel, ** pressing the 🔔 icon **, **Sharing** this with others and ** hitting ** the 👍
+👉 So do consider ✔ <b>Subscribing</b> to channel, <b>Pressing the 🔔 icon</b>, <b>Sharing</b> this with others and <b>Hitting</b> the 👍
 
 ### Connect with me here:
 <p><a href="https://twitter.com/akash_the_dev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/akashjha123/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/akashthedeveloper/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://akashthedeveloper.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a></p>
