@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Akash Jha
+### Hi Everyone 👋 I'm Akash Jha
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=akashthedevelopero&label=Views" alt="Views"> 
 </p>
