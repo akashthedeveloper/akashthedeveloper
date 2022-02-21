@@ -3,13 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=akashthedevelopero&label=Views" alt="Views"> 
 </p>
 
-<p align="center">
-  <a href="https://github.com/akashthedeveloper?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/userakashthedeveloper"/></a>
-  <a href="https://github.com/akashthedeveloper?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/akashthedeveloper?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-
 I am a Front-End Developer,Aspiring Software Developer,Content Creator/Podcast Host and Startup Enthusiast<br>
 - 🔭 I’m currently a 2nd Year Undergrad Student<br>
 - 🌱 I’m currently learning  <br>
