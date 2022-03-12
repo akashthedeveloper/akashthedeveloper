@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **DSA and Open-Source**
 
-- 📌Checkout my Socials here [https://bit.ly/3GF532j](https://bit.ly/3GF532j)
+- 📌Checkout my Socials here 👉 [https://bit.ly/3GF532j](https://bit.ly/3GF532j)
 
 - 💬 Ask me about **Opportunities, Internships, Different Programs, LinkedIn**
 
