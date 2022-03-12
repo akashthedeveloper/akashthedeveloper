@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/akash_the_dev" target="blank"><img src="https://img.shields.io/twitter/follow/akash_the_dev?logo=twitter&style=for-the-badge" alt="akash_the_dev" /></a> </p>
 
+<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCmN6647SbvxrRVTIin5i35Q?style=social">
+
 - 🌱 I’m currently learning **Vue.JS & Backend Tech Stack**
 
 - 👯 I’m looking to collaborate on **Open-Source Projects & Hackathons**
