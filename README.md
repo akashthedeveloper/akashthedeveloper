@@ -13,13 +13,15 @@
 
 - 🤝 I’m looking for help with **DSA and Open-Source**
 
-- 📌Checkout my Socials here 👉 [https://bit.ly/3GF532j](https://bit.ly/3GF532j)
+- 📌 Checkout my Socials here 👉 [https://bit.ly/3GF532j](https://bit.ly/3GF532j)
 
 - 💬 Ask me about **Opportunities, Internships, Different Programs, LinkedIn**
 
 - 📫 How to reach me **akash79120@gmail.com**
 
 - ⚡ Fun fact **Loves to Create Content and Dark Mode User**
+
+- 📌 Want to Internships & Job Opportunity Updates,Join Group here 👉 [https://telegram.me/akashthedeveloper](https://telegram.me/akashthedeveloper)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
