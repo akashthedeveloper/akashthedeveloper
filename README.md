@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **Loves to Create Content and Dark Mode User**
 
-- 📌 Want to Internships & Job Opportunity Updates,Join Group here 👉 [https://telegram.me/akashthedeveloper](https://telegram.me/akashthedeveloper)
+- 📌 Want to Internships & Job Opportunity Updates,Join Group here 👉 [https://bit.ly/361I04o](https://bit.ly/361I04o)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
