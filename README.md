@@ -48,5 +48,6 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akashthedeveloper&show_icons=true&locale=en" alt="akashthedeveloper" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akashthedeveloper&" alt="akashthedeveloper" /></p>
+<br>
 
 [![Akash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=akashthedeveloper&&theme=xcode)](https://github.com/akashthedeveloper)
