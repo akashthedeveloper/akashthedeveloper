@@ -43,11 +43,22 @@
 
 <h3 align="left">Support:</h3><p><a href="https://www.buymeacoffee.com/beingmotivated"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="beingmotivated" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashthedeveloper&show_icons=true&locale=en&layout=compact" alt="akashthedeveloper" /></p><br> <br>
+<br />
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akashthedeveloper&show_icons=true&locale=en" alt="akashthedeveloper" /></p>
+<table align="center">
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashthedeveloper&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=akashthedeveloper&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+</td>
+</tr>
+</table>
+<br />
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashthedeveloper&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
+</p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akashthedeveloper&" alt="akashthedeveloper" /></p>
 <br>
 
 [![Akash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=akashthedeveloper&&theme=xcode)](https://github.com/akashthedeveloper)
