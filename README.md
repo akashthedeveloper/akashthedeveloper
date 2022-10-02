@@ -80,4 +80,4 @@
 
 <br>
 
-[![Akash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=akashthedeveloper&&theme=xcode)](https://github.com/akashthedeveloper)
+[![Akash Jha GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=akashthedeveloper&&theme=xcode)](https://github.com/akashthedeveloper)
