@@ -1,13 +1,22 @@
 <h1 align="center">Hi 👋, I'm Akash Jha</h1>
 <h3 align="center">A Passionate Frontend Developer from India , Content Creator and Aspiring Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashthedeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="akashthedeveloper" /> </p>
-
-<p align="left"> <a href="https://twitter.com/akash_the_dev" target="blank"><img src="https://img.shields.io/twitter/follow/akash_the_dev?logo=twitter&style=for-the-badge" alt="akash_the_dev" /></a> </p>
-
-<p align="left"> <a href="https://telegram.me/akashthedeveloper" target="blank"><img src="https://img.shields.io/badge/Join-Telegram-blue?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtOS40MTcgMTUuMTgxLS4zOTcgNS41ODRjLjU2OCAwIC44MTQtLjI0NCAxLjEwOS0uNTM3bDIuNjYzLTIuNTQ1IDUuNTE4IDQuMDQxYzEuMDEyLjU2NCAxLjcyNS4yNjcgMS45OTgtLjkzMWwzLjYyMi0xNi45NzIuMDAxLS4wMDFjLjMyMS0xLjQ5Ni0uNTQxLTIuMDgxLTEuNTI3LTEuNzE0bC0yMS4yOSA4LjE1MWMtMS40NTMuNTY0LTEuNDMxIDEuMzc0LS4yNDcgMS43NDFsNS40NDMgMS42OTMgMTIuNjQzLTcuOTExYy41OTUtLjM5NCAxLjEzNi0uMTc2LjY5MS4yMTh6IiBmaWxsPSIjMDM5YmU1Ii8+PC9zdmc+" /></a> </p>
-
-<img alt="YouTube Channel Views" size="30%" src="https://img.shields.io/youtube/channel/views/UCmN6647SbvxrRVTIin5i35Q?style=social">
+<table align="center">
+<tr>
+ <td> 
+     <p> <img src="https://komarev.com/ghpvc/?username=akashthedeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="akashthedeveloper" /> </p>
+ </td>
+ <td>
+     <p> <a href="https://twitter.com/akash_the_dev" target="blank"><img src="https://img.shields.io/twitter/follow/akash_the_dev?logo=twitter&style=for-the-badge" alt="akash_the_dev" /></a> </p>
+  </td>
+  <td>
+      <img alt="YouTube Channel Views" size="30%" src="https://img.shields.io/youtube/channel/views/UCmN6647SbvxrRVTIin5i35Q?style=social">
+  </td>
+  <td>
+     <p> <a href="https://telegram.me/akashthedeveloper" target="blank"><img src="https://img.shields.io/badge/Join-Telegram-blue?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtOS40MTcgMTUuMTgxLS4zOTcgNS41ODRjLjU2OCAwIC44MTQtLjI0NCAxLjEwOS0uNTM3bDIuNjYzLTIuNTQ1IDUuNTE4IDQuMDQxYzEuMDEyLjU2NCAxLjcyNS4yNjcgMS45OTgtLjkzMWwzLjYyMi0xNi45NzIuMDAxLS4wMDFjLjMyMS0xLjQ5Ni0uNTQxLTIuMDgxLTEuNTI3LTEuNzE0bC0yMS4yOSA4LjE1MWMtMS40NTMuNTY0LTEuNDMxIDEuMzc0LS4yNDcgMS43NDFsNS40NDMgMS42OTMgMTIuNjQzLTcuOTExYy41OTUtLjM5NCAxLjEzNi0uMTc2LjY5MS4yMTh6IiBmaWxsPSIjMDM5YmU1Ii8+PC9zdmc+" /></a> </p>
+  </td>
+</tr>
+</table>
 
 - 🌱 I’m currently learning **Vue.JS & Backend Tech Stack**
 
