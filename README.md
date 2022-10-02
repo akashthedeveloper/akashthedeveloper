@@ -43,6 +43,10 @@
 
 <h3 align="left">Support:</h3><p><a href="https://www.buymeacoffee.com/beingmotivated"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="beingmotivated" /></a></p><br><br>
 
+<p align="center">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akashthedeveloper&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
+</p>
+
 <br />
 
 <table align="center">
@@ -55,9 +59,7 @@
 </tr>
 </table>
 <br />
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashthedeveloper&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
-</p>
+
 
 <br>
 
