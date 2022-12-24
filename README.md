@@ -76,8 +76,3 @@
 </tr>
 </table>
 <br />
-
-
-<br>
-
-[![Akash Jha GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=akashthedeveloper&&theme=xcode)](https://github.com/akashthedeveloper)
