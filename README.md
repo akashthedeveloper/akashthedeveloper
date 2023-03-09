@@ -76,3 +76,5 @@
 </tr>
 </table>
 <br />
+
+[![Akash Jha's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akashthedeveloper&theme=react-dark)](https://github.com/akashthedeveloper/github-readme-activity-graph)
