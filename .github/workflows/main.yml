@@ -15,3 +15,8 @@ jobs:
 
 - name: Profile Readme Development Stats
   uses: anmol098/waka-readme-stats@V3
+
+
+- name: Generate & update markdown content
+  uses: muesli/readme-scribe@v0.1
+
